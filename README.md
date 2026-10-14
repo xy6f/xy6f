@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xy6f&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
+  <img src="https://count.getloli.com/get/@xy6f?theme=rule34" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/xy6f?style=for-the-badge&color=7c3aed&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/xy6f?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0ea5e9&label=STARS" />
 </p>
