@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # 每天生成一次
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
